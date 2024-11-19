@@ -1,5 +1,8 @@
 # Global Services Customer Requirments
-Welcome to the Customer Requirments portal for Global Services deployments.  This site provies common customer requirments that need to be completed prior to kicking off the deployment of specific configuration items.  Details about which configuration items are applicible to your deployment, please consult with your project team.  
+Welcome to the Customer Requirments portal for Global Services deployments.  This site provies common customer requirments that need to be completed prior to kicking off the deployment of specific configuration items.  Details about which configuration items are applicible to your deployment, please consult with your project team.
+
+[!NOTE] 
+Subsection
 
 {::options parse_block_html="true" /}
 

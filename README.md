@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to the Customer Requirments portal for Global Services deployments.  This site provies common customer requirements that need to be completed prior to kicking off the deployment of specific configuration items.  Details about which configuration items are applicible to your deployment, please consult with your project team. For more information and an introduction to the Configuration Items phase, visit Keyfactor University's [onboarding course](https://training.keyfactor.com/path/pkiaas-onboarding/phase-4-configuration-items){:target="_blank" rel="noopener"}
+Welcome to the Customer Requirements portal for Global Services deployments.  This site provies common customer requirements that need to be completed prior to kicking off the deployment of specific configuration items.  Details about which configuration items are applicible to your deployment, please consult with your project team. For more information and an introduction to the Configuration Items phase, visit Keyfactor University's [onboarding course](https://training.keyfactor.com/path/pkiaas-onboarding/phase-4-configuration-items){:target="_blank" rel="noopener"}
 
 ### Configuration Items
 Each section below provides links to various customer requirments that must be completed prior to deployment.  This could be server specifications, software pre-requsites, x509 Certificates, or other credentials required by your solution design. 
@@ -13,7 +13,7 @@ The following configuration items relate to the installation and configuration o
 <hr>
 <br/>
 
-|Configuration Item |Description |Customer Requirments |Tags|
+|Configuration Item |Description |Customer Requirements |Tags|
 |:------------------|:------------------|:------------------|:----------|
 |Platform Install |The core Keyfactor Command Platform is to be hosted by the customer on their own infrastructure.   | [System Requirments](https://software.keyfactor.com/Core-OnPrem/current/Content/InstallingServer/Main/System%20Requirements.htm){:target="_blank" rel="noopener"}<br/><br/>[Planning & Preparing](https://software.keyfactor.com/Core-OnPrem/current/Content/InstallingServer/Main/Planning%20for%20Keyfactor.htm){:target="_blank" rel="noopener"}|<button class="tag-pill">On Premise</button>|
 |Universal Orchestrator Base Install|The Universal Orchestrator Service is installed locally and communicates to Command to execute SSL Discovery & Certificate Store jobs|[System Requirements](https://software.keyfactor.com/Core-OnPrem/current/Content/InstallingAgents/NetCoreOrchestrator/SystemRequirements.htm){:target="_blank" rel="noopener"}<br/><br/>[Preparing for the Universal Orchestrator](https://software.keyfactor.com/Core-OnPrem/current/Content/InstallingAgents/NetCoreOrchestrator/Preparing.htm){:target="_blank" rel="noopener"}|<button class="tag-pill">On Premise</button><button class="tag-pill">PKIaaS</button>|
@@ -33,7 +33,7 @@ This section relates to exension of the AnyCA Gateway with specific integration 
 <hr/>
 <br/>
 
-|Configuration Item |Description |Customer Requirments |Tags|
+|Configuration Item |Description |Customer Requirements |Tags|
 |:------------------|:------------------|:------------------|:----------|
 |**AnyCA Gateway Plug-in:** Digicert Cert Central|This AnyCA Gateway Plug-in enables access to Digicert's Cert Central platform.|[Prerequisites](https://github.com/Keyfactor/digicert-certcentral-caplugin?tab=readme-ov-file#prerequisites){:target="_blank" rel="noopener"}|
 |**AnyCA Gateway Plug-in:** Sectigo Certificate Manager|This AnyCA Gateway Plug-in enables access to Sectigo's Certificate Manager Platform|[Prerequisites](https://github.com/Keyfactor/sectigo-certmanager-cagateway?tab=readme-ov-file#prerequisites){:target="_blank" rel="noopener"}|
@@ -50,7 +50,7 @@ This section relates to the installation and configuration of various orchestrat
 <hr/>
 <br/>
 
-|Configuration Item |Description |Customer Requirments |Tags|
+|Configuration Item |Description |Customer Requirements |Tags|
 |:------------------|:------------------|:------------------|:----------|
 |**Orchestrator Extension:** Azure Application Gateway|This extension enables the creation and management of certificate stores linked to the Azure Application Gateway.  This extension supports both certificates and certificates with bindings| [Installation](https://github.com/Keyfactor/azure-appgateway-orchestrator?tab=readme-ov-file#installation){:target="_blank" rel="noopener"}|
 |**Orchestrator Extension:** Remote File Orchestrator|This extension supports numerous file based certificate store types including JKS, PEM, DER, and PKCS12.| [Requirements & Prerequisites](https://github.com/Keyfactor/remote-file-orchestrator?tab=readme-ov-file#requirements--prerequisites){:target="_blank" rel="noopener"}|

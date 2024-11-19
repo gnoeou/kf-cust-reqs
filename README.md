@@ -6,10 +6,6 @@ Each section below provides links to various customer requirments that must be c
 
 {::options parse_block_html="true" /}
 
-<div class="sample">
-sample css
-</div>
-
 <details open markdown="1">
 <summary markdown="span"><strong>Core Platform Configuration Items</strong></summary>
 

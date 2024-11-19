@@ -15,8 +15,14 @@ The following configuration items relate to the installation and configuration o
 |Universal Orchestrator Base Install|The Universal Orchestrator Service is installed locally and communicates to Command to execute SSL Discovery & Certificate Store jobs|[Server Requirements](https://software.keyfactor.com/Core-OnPrem/current/Content/InstallingAgents/NetCoreOrchestrator/SystemRequirements.htm){:target="_blank" rel="noopener"}<br/><br/>[Addtional Customer Responsibilities](https://software.keyfactor.com/Core-OnPrem/current/Content/InstallingAgents/NetCoreOrchestrator/Preparing.htm){:target="_blank" rel="noopener"}|
 |AnyCA Gateway Install|The AnyCA Gateway enables synchronization and enrollment access to public and third party CAs.|[Server Requirements](https://software.keyfactor.com/Guides/AnyGateway_Generic/Content/AnyGateway/SystemRequirements.htm){:target="_blank" rel="noopener"}<br/><br/>[Addtional Customer Responsibilities](https://software.keyfactor.com/Guides/AnyGateway_Generic/Content/AnyGateway/Preparing.htm){:target="_blank" rel="noopener"}|
 </details>
+
+{::options parse_block_html="false" /}
+
 <br/>
 <br/>
+
+{::options parse_block_html="true" /}
+
 <details>
 <summary>AnyCA Gateway Plug-ins</summary>
 This section relates to exension of the AnyCA Gateway with specific integration components.  These components are installed and configured within the base install referenced above.  For more information about the AnyCA Gateway, visit the product documentation.
@@ -32,8 +38,14 @@ This section relates to exension of the AnyCA Gateway with specific integration 
 |**AnyCA Gateway Plug-in:** Digicert Cert Central|This AnyCA Gateway Plug-in enables access to Digicert's Cert Central platform.|[Extension Requirements](https://github.com/Keyfactor/digicert-certcentral-caplugin?tab=readme-ov-file#prerequisites){:target="_blank" rel="noopener"}|
 |**AnyCA Gateway Plug-in:** Sectigo Certificate Manager|This AnyCA Gateway Plug-in enables access to Sectigo's Certificate Manager Platform|[Extenstion Requirments](https://github.com/Keyfactor/sectigo-certmanager-cagateway?tab=readme-ov-file#prerequisites){:target="_blank" rel="noopener"}|
 </details>
+
+{::options parse_block_html="false" /}
+
 <br/>
 <br/>
+
+{::options parse_block_html="true" /}
+
 <details>
 <summary>Universal Orchestrator Extensions</summary>
 This section relates to the installation and configuration of various orchestrator extensions that provide addtional capabilies to the orchestrator framework.  For more inforamtion about the Universal Orchestrator, visit the product documenation

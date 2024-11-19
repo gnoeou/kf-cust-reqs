@@ -6,8 +6,8 @@ Each section below provides links to various customer requirments that must be c
 
 {::options parse_block_html="true" /}
 
-<details markdown="1">
-<summary markdown="span">Core Platform Configuration Items</summary>
+<details open markdown="1">
+<summary markdown="span"><strong>Core Platform Configuration Items</strong></summary>
 
 The following configuration items relate to the installation and configuration of the core platform components.  These configuration items should be reviewed and understood prior to completion of addtional configuration items.
 <hr>
@@ -23,8 +23,8 @@ The following configuration items relate to the installation and configuration o
 
 
 
-<details markdown="1">
-<summary markdown="span">AnyCA Gateway Plug-ins</summary>
+<details open markdown="1">
+<summary markdown="span"><strong>AnyCA Gateway Plug-ins</strong></summary>
 This section relates to exension of the AnyCA Gateway with specific integration components.  These components are installed and configured within the base install referenced above.  For more information about the AnyCA Gateway, visit the product documentation.
 
 [AnyCA Gateway REST](https://software.keyfactor.com/Guides/AnyCAGatewayREST/Content/AnyCAGatewayREST/Introduction.htm){:target="_blank" rel="noopener"} 
@@ -42,8 +42,8 @@ This section relates to exension of the AnyCA Gateway with specific integration 
 
 
 
-<details markdown="1">
-<summary markdown="span">Universal Orchestrator Extensions</summary>
+<details open markdown="1">
+<summary markdown="span"><strong>Universal Orchestrator Extensions</strong></summary>
 This section relates to the installation and configuration of various orchestrator extensions that provide addtional capabilies to the orchestrator framework.  For more inforamtion about the Universal Orchestrator, visit the product documenation
 
 [Universal Orchestrator](https://software.keyfactor.com/Core-OnPrem/current/Content/InstallingAgents/Introduction.htm){:target="_blank" rel="noopener"}

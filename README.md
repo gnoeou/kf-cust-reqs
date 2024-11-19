@@ -1,13 +1,10 @@
 # Global Services Customer Requirments
 Welcome to the Customer Requirments portal for Global Services deployments.  This site provies common customer requirments that need to be completed prior to kicking off the deployment of specific configuration items.  Details about which configuration items are applicible to your deployment, please consult with your project team.
 
-[!NOTE] 
-Subsection
-
-{::options parse_block_html="true" /}
-
-<details>
-<summary>Core Platform Configuration Items</summary>
+<details markdown="1">
+<summary>
+Core Platform Configuration Items
+</summary>
 The following configuration items relate to the installation and configuration of the core platform components.  These configuration items should be reviewed and understood prior to completion of addtional configuration items.
 <hr>
 <br/>
@@ -27,7 +24,9 @@ The following configuration items relate to the installation and configuration o
 {::options parse_block_html="true" /}
 
 <details>
-<summary>AnyCA Gateway Plug-ins</summary>
+<summary>
+AnyCA Gateway Plug-ins
+</summary>
 This section relates to exension of the AnyCA Gateway with specific integration components.  These components are installed and configured within the base install referenced above.  For more information about the AnyCA Gateway, visit the product documentation.
 
 [AnyCA Gateway REST](https://software.keyfactor.com/Guides/AnyCAGatewayREST/Content/AnyCAGatewayREST/Introduction.htm){:target="_blank" rel="noopener"} 
@@ -50,7 +49,9 @@ This section relates to exension of the AnyCA Gateway with specific integration 
 {::options parse_block_html="true" /}
 
 <details>
-<summary>Universal Orchestrator Extensions</summary>
+<summary>
+Universal Orchestrator Extensions
+</summary>
 This section relates to the installation and configuration of various orchestrator extensions that provide addtional capabilies to the orchestrator framework.  For more inforamtion about the Universal Orchestrator, visit the product documenation
 
 [Universal Orchestrator](https://software.keyfactor.com/Core-OnPrem/current/Content/InstallingAgents/Introduction.htm){:target="_blank" rel="noopener"}

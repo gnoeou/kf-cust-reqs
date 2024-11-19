@@ -2,9 +2,13 @@
 Welcome to the Customer Requirments portal for Global Services deployments.  This site provies common customer requirements that need to be completed prior to kicking off the deployment of specific configuration items.  Details about which configuration items are applicible to your deployment, please consult with your project team. For more information and an introduction to the Configuration Items phase, visit Keyfactor University's [onboarding course](https://training.keyfactor.com/path/pkiaas-onboarding/phase-4-configuration-items){:target="_blank" rel="noopener"}
 
 ### Configuration Items
-Each section below provides links to various customer requirments that must be completed prior to deployment.  This could be server specs, software pre-requsites, x509 Certificates, or other credentials required by your solutions design. 
+Each section below provides links to various customer requirments that must be completed prior to deployment.  This could be server specifications, software pre-requsites, x509 Certificates, or other credentials required by your solution design. 
 
 {::options parse_block_html="true" /}
+
+<div class="sample">
+sample css
+</div>
 
 <details open markdown="1">
 <summary markdown="span"><strong>Core Platform Configuration Items</strong></summary>

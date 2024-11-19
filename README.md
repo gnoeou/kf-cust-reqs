@@ -1,6 +1,8 @@
 # Global Services Customer Requirments
 Welcome to the Customer Requirments portal for Global Services deployments.  This site provies common customer requirments that need to be completed prior to kicking off the deployment of specific configuration items.  Details about which configuration items are applicible to your deployment, please consult with your project team.  
 
+{::options parse_block_html="true" /}
+
 <details>
 <summary>Core Platform Configuration Items</summary>
 The following configuration items relate to the installation and configuration of the core platform components.  These configuration items should be reviewed and understood prior to completion of addtional configuration items.
@@ -49,5 +51,7 @@ This section relates to the installation and configuration of various orchestrat
 |**Orchestrator Extension:** IIS Orchestrator|This extension supports the inventory and management of the Windows Local Machine Certificate Stores (e.g. Personal, Trusted Roots, and Web Hosting)|[Extension Requirments](https://github.com/Keyfactor/iis-orchestrator?tab=readme-ov-file#wincertstore-orchestrator-configuration){:target="_blank" rel="noopener"}|
 
 </details>
+
+{::options parse_block_html="false" /}
 
 

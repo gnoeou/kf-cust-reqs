@@ -10,7 +10,7 @@ Each section below provides links to various customer requirments that must be c
 <summary markdown="1">
     Core Platform Configuration Items
 </summary>
-<h3>Core Platform Configuration Items</h3>
+### Core Platform Configuration Items
 The following configuration items relate to the installation and configuration of the core platform components.  These configuration items should be reviewed and understood prior to completion of addtional configuration items.
 <hr>
 <br/>

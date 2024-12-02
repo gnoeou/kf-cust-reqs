@@ -1,3 +1,6 @@
+* TOC
+{:toc}
+
 ## Introduction
 Welcome to the Customer Requirements portal for Global Services deployments.  This site provies common customer requirements that need to be completed prior to kicking off the deployment of specific configuration items.  Details about which configuration items are applicible to your deployment, please consult with your project team. For more information and an introduction to the Configuration Items phase, visit Keyfactor University's [onboarding course](https://training.keyfactor.com/path/pkiaas-onboarding/phase-4-configuration-items){:target="_blank" rel="noopener"}
 
